@@ -1,0 +1,10 @@
+# Create a folder named .streamlit in your project directory if it doesn’t exist inside that folder, and create a file named config.toml.
+# Paste the below code into it.
+
+[theme]
+base="dark"
+primaryColor="#ff0000"
+backgroundColor="#000000"
+secondaryBackgroundColor="#1a1a1a"
+textColor="#ffffffff"
+font="sans serif"
