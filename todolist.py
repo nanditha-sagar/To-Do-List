@@ -1,3 +1,7 @@
+# To run this file we need to install streamlit and also make sure we have python in our system
+
+# To run this in vs code, open the terminal, copy the path of the folder in which you have this python file. then enter -> streamlit run file_name.py
+
 import streamlit as st
 
 st.set_page_config(page_title="To Do List", page_icon="📝") # title of the tab and icon
